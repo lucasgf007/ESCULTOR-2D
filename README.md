@@ -53,7 +53,7 @@ Antes de começar, você vai precisar de um editor em C++ e um compilador:
 
 ## 🎲 Rodando o projeto
 ### Veja esse vídeo mosrtando o projeto e suas funcionalidades
-[![Watch the video](video.png)](https://youtu.be/vt5fpE0bzSY)
+[![Watch the video](video.png)](https://youtu.be/jUT2zU9EY1s)
 <br>
 
 ## 🛠️ Tecnologias
